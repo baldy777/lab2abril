@@ -15,6 +15,8 @@ def suma_recursiva(n):
 def suma_formula(n):
     return n * (n + 1) // 2
 
+def
+
 assert suma_iterativa(n) == suma_recursiva(n) == suma_formula(n), "¡Las funciones no coinciden!"
 
 print("✅ Todas las funciones dan el mismo resultado.")
